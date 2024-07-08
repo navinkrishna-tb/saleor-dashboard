@@ -35,7 +35,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/saleor/saleor-dashboard.git
+git clone https://github.com/navinkrishna-tb/saleor-dashboard.git
 ```
 
 2. Enter the project directory:
